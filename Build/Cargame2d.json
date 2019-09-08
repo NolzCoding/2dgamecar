@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cars2d",
+"productVersion": "0.1",
+"dataUrl": "Cargame2d.data.unityweb",
+"wasmCodeUrl": "Cargame2d.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cargame2d.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
